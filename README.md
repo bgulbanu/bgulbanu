@@ -2,7 +2,7 @@
 🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! 👋  </h1>
  <div align="center">
 
-<img data-url="wp6064330" src="https://wallpapercave.com/wp/wp6064330.jpg" slug="hello-world-wallpapers" class="wpimg">
+<img alt class="css-rq4mmj"src="https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-articleLarge.gif?quality=75&auto=webp&disable=upscale"srcset="https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-articleLarge.gif?quality=75&auto=webp 600w, https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-jumbo.gif?quality=75&auto=webp 1024w, https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-superJumbo.gif?quality=75&auto=webp 1024w"sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 80vw, 100vw"sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 80vw, 100vw"decoding="async"width="600"height="359"style="cursor: pointer;">
 
  <br><br>
    <h2 align="center"> <pre>🅰🅱🅾🆄🆃 🅼🅴 </pre></h2>
