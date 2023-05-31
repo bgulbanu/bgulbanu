@@ -2,7 +2,7 @@
 🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! 👋  </h1>
  <div align="center">
 
-<img alt class="css-rq4mmj"src="https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-articleLarge.gif?quality=75&auto=webp&disable=upscale"srcset="https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-articleLarge.gif?quality=75&auto=webp 600w, https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-jumbo.gif?quality=75&auto=webp 1024w, https://static01.nyt.com/images/2021/04/27/business/26Techfix-illo/26Techfix-illo-superJumbo.gif?quality=75&auto=webp 1024w"sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 80vw, 100vw"sizes="((min-width: 600px) and (max-width: 1004px)) 84vw, (min-width: 1005px) 80vw, 100vw"decoding="async"width="600"height="359"style="cursor: pointer;">
+<img title="loop.gif"src="https://cdn.dribbble.com/users/861334/screenshots/3055114/media/9cb7d25caef5ed965212afdb471f62a5.gif">
 
  <br><br>
    <h2 align="center"> <pre>🅰🅱🅾🆄🆃 🅼🅴 </pre></h2>
