@@ -2,7 +2,7 @@
 🅷🅴🅻🅻🅾, 🆆🅾🆁🅻🅳! 👋  </h1>
  <div align="center">
 
-<img title="loop.gif" src="https://cdn.dribbble.com/users/861334/screenshots/3055114/media/9cb7d25caef5ed965212afdb471f62a5.gif">
+<img title="loop.gif" src="https://cdn.dribbble.com/users/861334/screenshots/3055114/media/9cb7d25caef5ed965212afdb471f62a5.gif" width="500" height="400">
 
  <br><br>
    <h2 align="center"> <pre>🅰🅱🅾🆄🆃 🅼🅴 </pre></h2>
