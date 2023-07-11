@@ -38,8 +38,9 @@ Hello my name is Gulbanu Bozayeva :wave: I'm QA Authomation and Manual Engeener 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="45"/>&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Webstorm" alt="Webstorm" width="55"/>&nbsp;  
-   
- <h2 align="center"> <pre>🅹🆄🆂🆃 🅵🅾🆁 🅵🆄🅽</pre></h2>
+  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" title="Postman" alt="Postman" width="35"/> 
+
+  <h2 align="center"> <pre>🅹🆄🆂🆃 🅵🅾🆁 🅵🆄🅽</pre></h2>
   <div align="center">
   
 <img src="https://media.tenor.com/QrqIE5XUDDwAAAAd/programmer-bug.gif" width="250" height="250" alt="Programmer Bug GIF - Programmer Bug Tester GIFs" style="max-width: 250px;"> <img src="https://media.tenor.com/o8K70vT5lDAAAAAC/eww-bugs-eww.gif" width="250" height="250" alt="Eww Bugs Eww GIF - Eww Bugs Eww Bugs GIFs" style="max-width: 250px;"> <img src="https://media.tenor.com/sIB-6LgziVIAAAAC/spongebob-squarepants-spongebob.gif" width="250" height="250" alt="We Have A Bug GIF - Spongebob Squarepants Spongebob Patrick Star GIFs" style="max-width: 250px; background-color: rgb(68, 74, 76);"> 
