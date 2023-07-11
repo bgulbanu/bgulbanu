@@ -10,8 +10,8 @@
 Hello my name is Gulbanu Bozayeva :wave: I'm QA Authomation and Manual Engeener with 3+ years experience <img src="https://media.tenor.com/U3gdp2isP3EAAAAd/programming-software-testing.gif" width="55" height="55" alt="Programming Software Testing GIF - Programming Software Testing Mindscripts GIFs" style="max-width: 55px;">
 
  - 🌱 If you wanna change the world, start from yourself...
- - 🔭 From Oil and Gas engineer to QA engineer...<img src="https://media.tenor.com/RpxxkrGJ5VIAAAAC/thumbs-up-engineer-gaming.gif" width="55" height="55" alt="Thumbs Up Engineer Gaming GIF - Thumbs Up Engineer Gaming GIFs" style="max-width:55;">   
- - 💬 Speak: English, Kazakh, Russian, Chinese, Turkish...
+ - 🔭 From Oil and Gas engineer to QA engineer...<img src="https://media.tenor.com/RpxxkrGJ5VIAAAAC/thumbs-up-engineer-gaming.gif" width="75" height="75" alt="Thumbs Up Engineer Gaming GIF - Thumbs Up Engineer Gaming GIFs" style="max-width:75;">   
+ - 💬 Speak: English, Kazakh, Russian, Chinese...
     
   🅵🅸🅽🅳 🅼🅴 🅾🅽 </h4>  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bgulbanu/) [![Gmail Badge](https://img.shields.io/badge/-guleka1809@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guleka1809@gmail.com)](mailto:guleka1809@gmail.com)
@@ -23,7 +23,6 @@ Hello my name is Gulbanu Bozayeva :wave: I'm QA Authomation and Manual Engeener 
  <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="Chrome" alt="Chrome" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp;
