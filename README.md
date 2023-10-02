@@ -14,7 +14,7 @@ Hello my name is Gulbanu Bozayeva :wave: I'm QA Authomation and Manual Engeener 
  - 💬 Speak: English, Kazakh, Russian, Chinese...
     
   🅵🅸🅽🅳 🅼🅴 🅾🅽 </h4>  
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bgulbanu/) [![Gmail Badge](https://img.shields.io/badge/-guleka1809@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guleka1809@gmail.com)](mailto:guleka1809@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bgulbanu/) [![Gmail Badge](https://img.shields.io/badge/-gulbozayeva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gulbozayeva@gmail.com)](mailto:gulbozayeva@gmail.com)
 <div align="center">
     
 <br>
