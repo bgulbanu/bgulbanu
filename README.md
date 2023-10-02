@@ -7,7 +7,7 @@
  <br><br>
    <h2 align="center"> <pre>🅰🅱🅾🆄🆃 🅼🅴 </pre></h2>
   <div align="center">
-Hello my name is Gulbanu Bozayeva :wave: I'm QA Authomation and Manual Engeener with 5+ years experience <img src="https://media.tenor.com/U3gdp2isP3EAAAAd/programming-software-testing.gif" width="55" height="55" alt="Programming Software Testing GIF - Programming Software Testing Mindscripts GIFs" style="max-width: 55px;">
+Hello my name is Gulbanu Bozayeva :wave: I'm QA Authomation and Manual Engeener  <img src="https://media.tenor.com/U3gdp2isP3EAAAAd/programming-software-testing.gif" width="55" height="55" alt="Programming Software Testing GIF - Programming Software Testing Mindscripts GIFs" style="max-width: 55px;">
 
  - 🌱 If you wanna change the world, start from yourself...
  - 🔭 From Oil and Gas engineer to QA engineer...<img src="https://media.tenor.com/RpxxkrGJ5VIAAAAC/thumbs-up-engineer-gaming.gif" width="75" height="75" alt="Thumbs Up Engineer Gaming GIF - Thumbs Up Engineer Gaming GIFs" style="max-width:75;">   
